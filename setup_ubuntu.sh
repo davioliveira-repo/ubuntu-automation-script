@@ -55,4 +55,6 @@ echo -e "\n# ATENÇÃO:"
 echo "# Para melhor compatibilidade, recomenda-se instalar a Steam diretamente pelo site oficial ou via Flatpak:"
 echo "# flatpak install flathub com.valvesoftware.Steam"
 
+reboot now
+
 echo -e "\nScript concluído com sucesso!"
